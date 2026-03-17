@@ -1,5 +1,7 @@
 # HEIC to JPG Converter
 
+[English](README.md) | [中文](README_TW.md)
+
 Convert HEIC images to JPG format.
 
 ## Install
